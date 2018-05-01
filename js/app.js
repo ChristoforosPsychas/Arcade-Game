@@ -55,7 +55,8 @@ Player.prototype.update = function() {
     this.x = 200;
     this.y = 400;
     this.score += 1;
-// If the score reaches the value 5, i stop the bugs from moving and show the modal.
+// If the score reaches the value 5, i stop the bugs from moving and show the modal. 
+// The score is being rendered by the renderScore() function in the engine.js file.
     if (this.score === 5) {
       allEnemies.forEach(function(enemy) {
         enemy.speed = 0;
