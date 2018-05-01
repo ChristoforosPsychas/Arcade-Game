@@ -26,4 +26,4 @@ This Memory Game Project is made by Christoforos Psychas for the Udacity Front-E
 
 ### Live Page
 
-You can try my Immortal Arcade Game [here](https://christoforospsychas.github.io/Memory-Game/)!
+You can try my Immortal Arcade Game [here](https://christoforospsychas.github.io/Arcade-Game/)!
