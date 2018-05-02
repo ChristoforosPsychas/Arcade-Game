@@ -22,7 +22,7 @@ The game board consists of five(5) enemies (bugs) and a player arranged in a can
 
 ### Development
 
-This Memory Game Project is made by Christoforos Psychas for the Udacity Front-End Web Developer Nanodegree Program.
+This Arcade Game Project is made by Christoforos Psychas for the Udacity Front-End Web Developer Nanodegree Program.
 
 ### Live Page
 
